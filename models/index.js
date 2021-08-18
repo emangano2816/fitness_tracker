@@ -1,6 +1,6 @@
 //exporting an object containing all of our models
 
-modules.exports = {
+module.exports = {
     Exercise: require("./Exercise"),
     Day: require("./Day")
 };
