@@ -4,7 +4,7 @@
 
 ## Link(s)
 
-* [GitHub Repository](https://github.com/emangano2816/fitness-tracker)
+* [GitHub Repository](https://github.com/emangano2816/fitness_tracker)
 * [Application](https://whispering-hamlet-69152.herokuapp.com/)
 
 ## User Story
